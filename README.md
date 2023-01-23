@@ -1,4 +1,5 @@
 # Horse Betting Model
+Uses scraped data from [Racing Post](https://www.racingpost.com) in order to predict the winners of horse races from historical data and attributes about the horse and the race itself. 
 
 ## Instructions
 Run scripts in the following order:
